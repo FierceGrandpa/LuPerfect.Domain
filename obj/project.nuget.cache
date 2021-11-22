@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RgT7M8q/bl1GV6AP1iymD1VbHUMnFX9TVT1N49foOO3LNbyjLJp1vWbcO/akx2QeF6hkJVHNYAE7MifPUA+Ftw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shop59\\source\\repos\\LuPerfect.Domain\\LuPerfect.Domain\\LuPerfect.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shop59\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LuPerfect.Domain</id>
+    <version>1.0.0</version>
+    <authors>LuPerfect</authors>
+    <description>Library with c# domain.</description>
+    <tags>c#, domain, asp.net core</tags>
+    <repository type="git" url="https://github.com/FierceGrandpa/LuPerfect.Domain" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.EntityFrameworkCore.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Shop59\source\repos\LuPerfect.Domain\LuPerfect.Domain\bin\Release\net6.0\LuPerfect.Domain.dll" target="lib\net6.0\LuPerfect.Domain.dll" />
+  </files>
+</package>
